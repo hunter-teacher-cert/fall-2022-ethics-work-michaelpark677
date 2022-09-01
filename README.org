@@ -1,6 +1,6 @@
-* Last name:
-* First name:
-* Github username:
+* Last name: Park
+* First name: Moo Joon
+* Github username: michaelpark677
 
 * Instructions:
 
