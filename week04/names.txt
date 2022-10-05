@@ -1,2 +1,2 @@
-Tomorrow, we are planning to have virtual guest speakers from AWS in all of our computer science classes. The list of speakers are Channa Samynathan, Yashoda Dadkar, Vanitha Kumar, and Shaydon Bodemar.
+Tomorrow, we are planning to have virtual guest speakers from Amazon Web Services in all of our computer science classes. The list of speakers are Channa Samynathan, Yashoda Dadkar, Vanitha Kumar, and Shaydon Bodemar.
 Channa S. and Y. Dadkar are periods 1 and 2, respectively, while Dr. Kumar and Mr. Bodemar are periods 4 and 5, respectively.
